@@ -1,1 +1,1 @@
-# E-commerce Stadium Booking Project
+# E-commerce Stadium Booking Application
